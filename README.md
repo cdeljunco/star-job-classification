@@ -2,7 +2,7 @@
 
 This code takes as input a list of job titles from the [UMETRICS dataset](https://iris.isr.umich.edu/research-data/) and sorts them into 21 categories of non-academic research jobs (ie. student, postdoctoral, or faculty). The code relies on the UMETRICS systematic occupational classification to treat academic job titles. 
 
-Detailed information on the development and implementation of the classification can be found in the methods document at [INSERT DOI]
+Detailed information on the development and implementation of the classification can be found in the methods document at [https://doi.org/10.21987/j69s-2t47].
 
 
 
